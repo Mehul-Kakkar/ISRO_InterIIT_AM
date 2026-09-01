@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+*.ipynb
+xsm_data.csv
+xsm.csv
+.vscode/
