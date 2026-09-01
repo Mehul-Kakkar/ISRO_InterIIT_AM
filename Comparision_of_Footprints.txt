@@ -1,0 +1,2 @@
+Comparison of Footprints A and B:
+The spectra from the two footprints show a broadly similar decrease in count rate with increasing energy, with the majority of the detected counts occurring at lower energies. However, Footprint B shows several prominent spectral features in the approximately 1–2 keV region, which are much less pronounced in Footprint A. The higher-energy region above approximately 2 keV is comparatively weak and relatively featureless in both spectra. These differences indicate that the X-ray spectral characteristics vary between the two footprints.
