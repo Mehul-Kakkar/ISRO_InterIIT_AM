@@ -1,0 +1,76 @@
+VRSBench Task 2 - BLEU Evaluation
+============================================================
+
+Evaluation set: 6 required VRSBench images
+Reference source: VRSBench_EVAL_Cap.json
+Metric: BLEU-1, BLEU-2, BLEU-3, BLEU-4
+Smoothing: NLTK method1
+
+PER-IMAGE RESULTS
+------------------------------------------------------------
+
+P0003_0002.png
+BLEU-1: 0.4348
+BLEU-2: 0.2883
+BLEU-3: 0.1706
+BLEU-4: 0.1107
+
+P0019_0002.png
+BLEU-1: 0.3115
+BLEU-2: 0.1248
+BLEU-3: 0.0298
+BLEU-4: 0.0146
+
+P0060_0004.png
+BLEU-1: 0.4500
+BLEU-2: 0.2135
+BLEU-3: 0.0388
+BLEU-4: 0.0166
+
+P0110_0017.png
+BLEU-1: 0.3242
+BLEU-2: 0.1237
+BLEU-3: 0.0290
+BLEU-4: 0.0141
+
+P0146_0005.png
+BLEU-1: 0.4349
+BLEU-2: 0.2696
+BLEU-3: 0.1521
+BLEU-4: 0.0811
+
+P0168_0009.png
+BLEU-1: 0.2500
+BLEU-2: 0.0953
+BLEU-3: 0.0256
+BLEU-4: 0.0134
+
+AGGREGATE RESULTS
+------------------------------------------------------------
+
+BLEU-1: 0.4046
+BLEU-2: 0.2134
+BLEU-3: 0.0990
+BLEU-4: 0.0529
+
+GENERATED CAPTIONS
+------------------------------------------------------------
+
+P0003_0002.png
+The image shows a parking lot adjacent to a road. Several yellow buses are parked in the lot, with a few empty spaces. To the left, there are industrial buildings and a large open area. A single car is driving on the road next to the parking lot. The road has two lanes in each direction, separated by a median strip.
+
+P0019_0002.png
+The satellite image shows a water body with a dock extending into it. There are two small boats tied to the dock, and a larger structure, possibly a pier or a floating platform, is visible in the background. The surrounding area includes greenery and a few buildings, suggesting a recreational or residential waterfront setting.
+
+P0060_0004.png
+The image shows a residential area with a row of houses featuring tan roofs and light-colored walls. There are multiple vehicles parked in driveways and along the street. A large road runs horizontally through the center, intersecting with another road at an angle. Trees are scattered around the houses, and a swimming pool is visible near one of the homes. The layout suggests a suburban neighborhood with clear demarcations between properties and streets.
+
+P0110_0017.png
+The satellite image shows a large container ship navigating through a canal, surrounded by industrial facilities and greenery. The ship is loaded with numerous containers, and there are several buildings and parking areas nearby. The canal is flanked by green spaces, and the industrial complex includes multiple red-roofed structures.
+
+P0146_0005.png
+The image shows a park with two tennis courts adjacent to a playground featuring swings and slides. A baseball diamond is partially visible in the lower right corner. Trees surround the area, and a paved path runs alongside the courts. The playground equipment is located near the bottom left, while the sports facilities occupy the upper left portion of the image.
+
+P0168_0009.png
+The image shows an aerial view of a large, open area with a grid-like pattern of light-colored tiles or paving stones. Four small aircraft are parked in a row on the right side of the image, aligned parallel to each other. The aircraft appear to be identical in design and size.
+
